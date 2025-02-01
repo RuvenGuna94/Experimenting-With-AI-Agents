@@ -1,14 +1,24 @@
-# AI-Agents-Exploration
+# AI-Agent-Orchestration
 
-Welcome to **AI-Agents-Exploration**! This repository contains a Jupyter Notebook that explores AI Agents, covering key concepts, architectures, and implementations. Whether you're a beginner or an experienced practitioner, this notebook serves as a hands-on guide to understanding AI-driven agents.
+Welcome to **AI-Agent-Orchestration**! This repository contains a Jupyter Notebook that explores **AI Agents** using the **CrewAI framework**, demonstrating how multiple agents can collaborate on tasks efficiently.
 
 ## 📌 Overview
 
-This notebook provides an exploration of AI agents, including:
+This notebook walks through the process of **building and orchestrating AI agents** with CrewAI. It covers:
 
-- **Agent key concepts** – What are Agents and how to use them.
-- **CrewAI** – An explanation of available Agent Frameworks and a deeper dive into the selected framework, CrewAI.
-- **Practical Implementations** – Coding examples to showcase orchestration of multiple AI agents to achieve a defined task.
+- **Introduction to AI Agents** – Understanding how AI-driven agents operate.
+- **Installing and Setting Up CrewAI** – A framework for multi-agent collaboration.
+- **Using AI Agents with Serper Search Tool** – Enabling real-time web searches.
+- **Creating AI Agents for Research & Writing** – Defining agent roles and delegation.
+- **Task Assignment & Execution** – Assigning tasks and managing workflow execution.
+- **Hands-On Implementation** – Running a full AI-agent workflow.
+
+## ⚡ Features
+
+- **Multi-Agent Collaboration** – AI agents interact to complete a task.
+- **Real-World AI Applications** – Demonstrates how agents can research and generate content.
+- **Agent-Orchestration with CrewAI** – Simplifies complex AI workflows.
+- **Interactive Notebook** – Modify and extend the project to fit different use cases.
 
 ## 🔧 Installation
 
@@ -41,6 +51,15 @@ jupyter notebook
 
 Open `AI_Agents.ipynb` in your browser and run through the cells to explore AI agent implementations.
 
+## 🏗️ Notebook Structure
+
+1. **Introduction to AI Agents**  
+2. **Installing & Importing Dependencies**  
+3. **Setting Up CrewAI Framework**  
+4. **Using AI Agents for Research & Writing**  
+5. **Creating & Assigning Tasks**  
+6. **Executing the Agent Workflow**  
+7. **Conclusion and Future Applications**
 
 ## 🤝 Contributing
 
